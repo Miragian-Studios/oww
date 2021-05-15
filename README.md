@@ -1,6 +1,6 @@
 # OWW (Open Writing Workshop) 
 
-**FAQ
+**FAQ**
 
 1. What is the OWW? 
 2. How does it work? 
